@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: https://pkvgames.lixiaolai.com/sitemap.xml
